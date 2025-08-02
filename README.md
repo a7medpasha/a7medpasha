@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ahmed Khalid Abdelgafar Pasha 👋
 
-<!--
-**a7medpasha/a7medpasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an Electrical Power Engineer passionate about renewable energy, electric vehicles, and embedded systems.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- 🧠 Fuzzy Logic, PID Control
+- ⚡ MATLAB, Simulink, Python, C++
+- 🛠️ IoT with MQTT, HiveMQ, ThingSpeak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🛰️ [IoT-Based Hybrid Energy Management System](https://github.com/your-username/project1)
+- 🌞 [DC Microgrid Fuzzy Logic Controller](https://github.com/your-username/project2)
+
+## 📫 How to Reach Me
+- 📧 engahmed0225@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-pasha)
